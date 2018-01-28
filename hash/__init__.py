@@ -1,1 +1,1 @@
-from hashtable import HashTable
+from hash import HashTable
