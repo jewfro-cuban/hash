@@ -12,7 +12,7 @@ setup(
     author = 'S N Munendra',
     author_email = 'sn.munendra52@gmail.com',
     description = 'Simple HashTable implementation in Python',
-    packages = ['hashtable'] ,
+    packages = ['hash'] ,
     license = 'MIT',
     zip_safe=False
 )
