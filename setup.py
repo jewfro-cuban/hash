@@ -8,7 +8,7 @@ setup(
     name = 'HashTable',
     version = '0.1a',
     long_description = readme(),
-    url = 'https://github.com/munendrasn/hash',
+    url = 'https://github.com/jewfro-cuban/hash',
     author = 'S N Munendra',
     author_email = 'sn.munendra52@gmail.com',
     description = 'Simple HashTable implementation in Python',
